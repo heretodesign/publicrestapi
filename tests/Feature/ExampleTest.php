@@ -9,7 +9,7 @@ class ExampleTest extends TestCase
 {
     /**
      * A basic test example.
-     *
+     * ./vendor/bin/phpunit --filter=testBasicTest
      * @return void
      */
     public function testBasicTest()
